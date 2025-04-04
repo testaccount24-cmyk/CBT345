@@ -1,0 +1,14 @@
+2025-04-04 08:15:15.641039 - Received CBT.V508.FILE345.PDS from FILE345.XMI 
+2025-04-04 08:15:15.641959 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:15:15.642130 - Found $$INDEX.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/$$INDEX
+2025-04-04 08:15:15.642288 - Found $$INDEXS.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/$$INDEXS
+2025-04-04 08:15:15.642441 - Found $$INSTAL.jcl (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/$$INSTAL
+2025-04-04 08:15:15.642569 - Found $BSM.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/$BSM
+2025-04-04 08:15:15.642702 - Found $README.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/$README
+2025-04-04 08:15:15.642841 - Found $SW24.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/$SW24
+2025-04-04 08:15:15.642960 - Found $SW31.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/$SW31
+2025-04-04 08:15:15.643083 - Found @FILE345.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/@FILE345
+2025-04-04 08:15:15.643214 - Found IEE043I.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/IEE043I
+2025-04-04 08:15:15.643342 - Found IEF176I.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/IEF176I
+2025-04-04 08:15:15.643457 - Found IST020I.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/IST020I
+2025-04-04 08:15:15.643578 - Found IST270I.txt (text/plain) in CBT.V508.FILE345.PDS, moved to PDS/IST270I
